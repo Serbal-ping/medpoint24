@@ -1,0 +1,4 @@
+deployment:
+  image: "nginx"
+  tag: "stable-alpine"
+name: nginx-app

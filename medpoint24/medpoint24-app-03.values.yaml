@@ -1,0 +1,4 @@
+deployment:
+  image: "nginx"
+  tag: "stable-alpine"
+name: analytics-app-3
